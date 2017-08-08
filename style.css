@@ -1,0 +1,34 @@
+body {
+    margin: 150px;
+    background-color: lightsalmon;   
+}
+
+section {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+input {
+    width: 300px;
+    height: 50px;
+    font-size: 20px;
+    border: 1px solid gray;    
+}
+hr {
+    margin-top: 30px;
+}
+h3 {
+    font-family: sans-serif;
+    font-size: 15px;
+    display: flex;
+    justify-content: center;
+    width: 200px;
+    height: 20px;
+}
+img {
+    width: 250px;
+    height: 250px;
+    border: 3px solid black;
+    
+}
+
